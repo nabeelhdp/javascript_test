@@ -9,4 +9,4 @@ Launch
 python piechart.py &
 ```
 
-View chart in http://localhost:8080/pie
+View chart in http://<FQDN>:8080/pie
