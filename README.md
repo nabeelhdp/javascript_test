@@ -1,6 +1,6 @@
 # javascript_test
 
-Add `canvasjs.min.js` in a new folder called static
+Add `canvasjs.min.js` in a new folder called `static`
 
 Add `bottle.py` in same folder
 
